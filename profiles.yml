@@ -3,7 +3,7 @@ build_mau:
     dev:
       account: HIVGPYW-IMB65508
       database: DEV
-      password: Nakshatradesai@11
+      password:
       role: ACCOUNTADMIN
       schema: ANALYTICS
       threads: 1
