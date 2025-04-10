@@ -1,0 +1,13 @@
+build_mau:
+  outputs:
+    dev:
+      account: HIVGPYW-IMB65508
+      database: DEV
+      password: Nakshatradesai@11
+      role: ACCOUNTADMIN
+      schema: ANALYTICS
+      threads: 1
+      type: snowflake
+      user: NAK
+      warehouse: COMPUTE_WH
+  target: dev
