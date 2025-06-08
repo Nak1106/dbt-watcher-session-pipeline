@@ -15,26 +15,6 @@ This repository contains a complete **dbt project** built on **Snowflake**, desi
 
 ---
 
-## 🛠️ Project Structure
-
-```text
-.
-├── models
-│   ├── input
-│   │   ├── session_timestamp.sql
-│   │   └── user_session_channel.sql
-│   ├── output
-│   │   ├── schema.yml
-│   │   └── sources.yml
-├── snapshots
-│   └── snapshot_session_summary.sql
-├── dbt_project.yml
-├── profiles.yml
-├── README.md
-```
-
----
-
 ## 🧩 Input Models
 
 ### 📄 `models/input/user_session_channel.sql`
